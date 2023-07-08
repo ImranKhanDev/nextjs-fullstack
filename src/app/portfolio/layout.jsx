@@ -6,6 +6,7 @@ const layout = ({children}) => {
            <h1 className={styles.mainTitle}>
             Our Works</h1> 
             {children}
+          
         </div>
     );
 };
